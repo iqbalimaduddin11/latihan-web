@@ -7,7 +7,7 @@
     <title>GUA KEREN WOY</title>
 </head>
 <body>
-    <table style="">
+    <table border="3">
         <tr>
             <th>Nama</th>
             <th>Fakultas</th>
